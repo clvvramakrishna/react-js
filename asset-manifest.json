@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-js/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-js/static/js/main.b8d13abf.chunk.js",
+    "main.js.map": "/react-js/static/js/main.b8d13abf.chunk.js.map",
+    "runtime-main.js": "/react-js/static/js/runtime-main.fa13b250.js",
+    "runtime-main.js.map": "/react-js/static/js/runtime-main.fa13b250.js.map",
+    "static/js/2.f7908945.chunk.js": "/react-js/static/js/2.f7908945.chunk.js",
+    "static/js/2.f7908945.chunk.js.map": "/react-js/static/js/2.f7908945.chunk.js.map",
+    "index.html": "/react-js/index.html",
+    "precache-manifest.dd7f1c099123f9bf3e16758715e7520f.js": "/react-js/precache-manifest.dd7f1c099123f9bf3e16758715e7520f.js",
+    "service-worker.js": "/react-js/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-js/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f7908945.chunk.js.LICENSE.txt": "/react-js/static/js/2.f7908945.chunk.js.LICENSE.txt",
+    "static/media/person.svg": "/react-js/static/media/person.ef758973.svg",
+    "static/media/woman.svg": "/react-js/static/media/woman.b935d5cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa13b250.js",
+    "static/js/2.f7908945.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b8d13abf.chunk.js"
+  ]
+}
