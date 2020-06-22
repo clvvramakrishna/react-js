@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/react-js/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-js/static/js/main.b8d13abf.chunk.js",
-    "main.js.map": "/react-js/static/js/main.b8d13abf.chunk.js.map",
-    "runtime-main.js": "/react-js/static/js/runtime-main.fa13b250.js",
-    "runtime-main.js.map": "/react-js/static/js/runtime-main.fa13b250.js.map",
-    "static/js/2.f7908945.chunk.js": "/react-js/static/js/2.f7908945.chunk.js",
-    "static/js/2.f7908945.chunk.js.map": "/react-js/static/js/2.f7908945.chunk.js.map",
-    "index.html": "/react-js/index.html",
-    "precache-manifest.dd7f1c099123f9bf3e16758715e7520f.js": "/react-js/precache-manifest.dd7f1c099123f9bf3e16758715e7520f.js",
-    "service-worker.js": "/react-js/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/react-js/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.f7908945.chunk.js.LICENSE.txt": "/react-js/static/js/2.f7908945.chunk.js.LICENSE.txt",
-    "static/media/person.svg": "/react-js/static/media/person.ef758973.svg",
-    "static/media/woman.svg": "/react-js/static/media/woman.b935d5cc.svg"
+    "main.css": "/Task3/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Task3/static/js/main.a4b63d35.chunk.js",
+    "main.js.map": "/Task3/static/js/main.a4b63d35.chunk.js.map",
+    "runtime-main.js": "/Task3/static/js/runtime-main.c019f57a.js",
+    "runtime-main.js.map": "/Task3/static/js/runtime-main.c019f57a.js.map",
+    "static/js/2.9a18d6ee.chunk.js": "/Task3/static/js/2.9a18d6ee.chunk.js",
+    "static/js/2.9a18d6ee.chunk.js.map": "/Task3/static/js/2.9a18d6ee.chunk.js.map",
+    "index.html": "/Task3/index.html",
+    "precache-manifest.c5a8356bca0443ea203000de410b3ef9.js": "/Task3/precache-manifest.c5a8356bca0443ea203000de410b3ef9.js",
+    "service-worker.js": "/Task3/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Task3/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9a18d6ee.chunk.js.LICENSE.txt": "/Task3/static/js/2.9a18d6ee.chunk.js.LICENSE.txt",
+    "static/media/woman.svg": "/Task3/static/media/woman.b935d5cc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa13b250.js",
-    "static/js/2.f7908945.chunk.js",
+    "static/js/runtime-main.c019f57a.js",
+    "static/js/2.9a18d6ee.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b8d13abf.chunk.js"
+    "static/js/main.a4b63d35.chunk.js"
   ]
 }
